@@ -295,5 +295,3 @@ for output in app.stream(inputs):
 This project showcases the integration of a local RAG agent using LLaMA3, capable of retrieving, generating, and grading responses while leveraging web search as a fallback mechanism.
 
 --- 
-
-This step-by-step markdown provides a comprehensive guide for setting up, running, and testing the notebook content on GitHub.
