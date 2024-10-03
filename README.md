@@ -102,7 +102,7 @@ If you already have an account, simply log in.
 
 * Click on the "Generate API Key" button.
 
-A new API key will be generated. Make sure to copy and save this key, as you will need it to authenticate your requests when using Langchain services.
+#### A new API key will be generated. Make sure to copy and save this key, as you will need it to authenticate your requests when using Langchain services.
 Add the API Key to secrets.json:
 ---
 
